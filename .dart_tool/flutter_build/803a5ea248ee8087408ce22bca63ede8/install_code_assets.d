@@ -1,0 +1,1 @@
+ /home/roman/Desktop/project/rickandmorti_clean_architecture/.dart_tool/flutter_build/803a5ea248ee8087408ce22bca63ede8/native_assets.json: 

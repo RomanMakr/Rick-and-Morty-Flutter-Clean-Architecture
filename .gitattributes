@@ -24,3 +24,10 @@ CMakeLists.txt linguist-detectable=false
 # Dart - главный язык
 *.dart linguist-language=Dart
 *.dart linguist-detectable=true
+
+# Makefile
+Makefile linguist-detectable=false
+makefile linguist-detectable=false
+GNUmakefile linguist-detectable=false
+*.mk linguist-detectable=false
+*.make linguist-detectable=false
